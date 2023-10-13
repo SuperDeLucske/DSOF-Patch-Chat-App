@@ -13,7 +13,7 @@
   "dependencies": {
     "cross-env": "^7.5.2",
     "ansi-regex": "^6.0.1",
-    "eventsource": "^2.0.2",
+    "eventsource": "^1.1.1",
     "webstomp-client": "^1.2.6",
     "marked": "4.0.10"
   },
