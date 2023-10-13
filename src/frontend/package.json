@@ -1,4 +1,4 @@
-{
+er{
   "name": "snyk-chat-goof",
   "version": "1.0.0",
   "description": "Vue Multiroom Chat with Nuxt, Vuex and WebSocket",
@@ -11,9 +11,9 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "cross-env": "^5.2.0",
+    "cross-env": "^7.5.2",
     "ansi-regex": "^6.0.1",
-    "sockjs-client": "^1.4.0",
+    "eventsource": "^2.0.2",
     "webstomp-client": "^1.2.6",
     "marked": "4.0.10"
   },
