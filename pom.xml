@@ -41,10 +41,15 @@
             <artifactId>vavr</artifactId>
             <version>${vavr.version}</version>
         </dependency>
-        <dependency>
+        <!-- dependency>
             <groupId>io.vavr</groupId>
             <artifactId>vavr-jackson</artifactId>
             <version>${vavr-jackson.version}</version>
+        </dependency -->
+         <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.13.4</version>
         </dependency>
         <dependency>
             <groupId>org.spockframework</groupId>
